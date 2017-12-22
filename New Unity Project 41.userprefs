@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\New Unity Project 27\Assets\NewShader.shader">
+    <Files>
+      <File FileName="..\New Unity Project 27\Assets\NewShader.shader" Line="8" Column="4" />
+      <File FileName="..\New Unity Project 27\Assets\Shader\wave.shader" Line="42" Column="10" />
+      <File FileName="..\New Unity Project 27\Assets\Shader\NewShader.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
